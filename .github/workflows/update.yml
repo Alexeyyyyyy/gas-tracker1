@@ -1,7 +1,7 @@
 name: Base Gas Tracker
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0,15,30,45 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -38,8 +38,8 @@ jobs:
           echo "| $DATE | Base: ${BASE_GWEI} gwei | ETH: ${ETH_GWEI} gwei |" >> gas_log.md
       - name: Commit
         run: |
-          git config user.email "actions@github.com"
-          git config user.name "github-actions[bot]"
+          git config user.email "aonishchenko93@mail.ru"
+          git config user.name "Alexeyyyyyy"
           git add .
           git commit -m "gas: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
