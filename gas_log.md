@@ -86,3 +86,4 @@
 | 2026-05-03 23:07 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-05-04 00:00 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-05-04 04:05 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-05-04 06:52 UTC | Base: 0.006 gwei | ETH: N/A gwei |
