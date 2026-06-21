@@ -630,3 +630,4 @@
 | 2026-06-20 23:23 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-06-21 01:43 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-06-21 06:30 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-06-21 10:20 UTC | Base: 0.006 gwei | ETH: N/A gwei |
