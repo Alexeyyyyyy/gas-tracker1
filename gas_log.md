@@ -1299,3 +1299,4 @@
 | 2026-08-08 15:51 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-08-08 16:15 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-08-08 16:57 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-08-08 17:22 UTC | Base: 0.006 gwei | ETH: N/A gwei |
