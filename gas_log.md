@@ -1950,3 +1950,4 @@
 | 2026-08-24 23:19 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-08-24 23:41 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-08-24 23:55 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-08-25 00:31 UTC | Base: 0.006 gwei | ETH: N/A gwei |
