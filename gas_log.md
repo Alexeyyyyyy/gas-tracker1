@@ -2014,3 +2014,4 @@
 | 2026-08-26 18:53 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-08-26 21:20 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-08-27 00:53 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-08-27 10:40 UTC | Base: 0.006 gwei | ETH: N/A gwei |
