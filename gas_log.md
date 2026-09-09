@@ -2102,3 +2102,4 @@
 | 2026-09-09 13:54 UTC | Base: 0.0273 gwei | ETH: N/A gwei |
 | 2026-09-09 17:21 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-09-09 19:52 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-09-09 22:01 UTC | Base: 0.006 gwei | ETH: N/A gwei |
