@@ -2225,3 +2225,4 @@
 | 2026-09-27 15:24 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-09-27 19:05 UTC | Base: 0.006 gwei | ETH: N/A gwei |
 | 2026-09-27 22:04 UTC | Base: 0.006 gwei | ETH: N/A gwei |
+| 2026-09-28 00:39 UTC | Base: 0.006 gwei | ETH: N/A gwei |
